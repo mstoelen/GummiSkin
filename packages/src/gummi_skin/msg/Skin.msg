@@ -1,0 +1,12 @@
+int32 sensor1
+int32 sensor2
+int32 sensor3
+int32 sensor4
+int32 sensor5
+int32 sensor6
+int32 sensor7
+int32 sensor8
+int32 sensor9
+int32 sensor10
+int32 sensor11
+int32 sensor12
