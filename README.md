@@ -1,5 +1,5 @@
 # GummiSkin
-Repository for the GummiSkin project. A robust and light-weight robot skin(?)
+Repository for the GummiSkin project. A robust and lightweight robot skin(?)
 
 A sidekick of the GummiArm project: http://mstoelen.github.io/GummiArm/
 
